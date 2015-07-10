@@ -1,0 +1,12 @@
+D:\Proyectos\OPENCV\RGB\RGB\bin\Debug\RGB.exe.config
+D:\Proyectos\OPENCV\RGB\RGB\bin\Debug\RGB.exe
+D:\Proyectos\OPENCV\RGB\RGB\bin\Debug\RGB.pdb
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.csprojResolveAssemblyReference.cache
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.Form1.resources
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.Properties.Resources.resources
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.csproj.GenerateResource.Cache
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.exe
+D:\Proyectos\OPENCV\RGB\RGB\obj\Debug\RGB.pdb
+D:\Proyectos\Vision\Grises y BN\RGB\bin\Debug\RGB.exe.config
+D:\Proyectos\Vision\Grises y BN\RGB\obj\Debug\RGB.exe
+D:\Proyectos\Vision\Grises y BN\RGB\obj\Debug\RGB.pdb
